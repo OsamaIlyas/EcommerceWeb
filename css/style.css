@@ -1,0 +1,38 @@
+.bg-black
+{
+    background-color: black;
+}
+.my-carousel
+{
+    top: 200px;
+}
+.bg-orange
+{
+    background-color: #f0644f;
+    color: aliceblue;
+    text-align: center;
+    font-weight: 600;
+}
+.m-right
+{
+    border-right: 2px solid white;
+}
+.bg-light-gray
+{
+background-color: rgba(111, 111, 111, 0.09);
+}
+.underline
+{
+    width: 200px;
+    height: 2px;
+    background-color: orangered;
+}
+.media img
+{
+    max-width:120px; 
+    height:auto
+}
+.blog .media img {
+     max-width: 200px; 
+    height: auto;
+}
